@@ -7,4 +7,9 @@ body{
     font-family: "DotGothic16", sans-serif;
     font-weight: 400;
     font-style: normal;
+
+    #profile_img{
+        width: 256px;
+        height: 256px;
+    };
 };
