@@ -5,12 +5,10 @@ body{
     margin-right: 30px;
     text-align: center;
 
-    h1{
-        font-family: "M PLUS 1", sans-serif;
-        font-optical-sizing: auto;
-        font-weight: 500;
-        font-style: normal;
-    };
+    font-family: "M PLUS 1", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
 
     #profile_img{
         width: 256px;
