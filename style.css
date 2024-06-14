@@ -18,7 +18,15 @@ body{
     };
 
     #profile_img{
+        display: inline-block;
         width: 256px;
         height: 256px;
+    };
+
+    p.intro_text{
+        display: inline-block;
+        text-align: left;
+        vertical-align: top;
+        width: 500px;
     };
 };
